@@ -23,7 +23,7 @@ English / [简体中文](https://github.com/yleencc/yleencc/blob/main/README_CN.
 - 🥰 Like IT, music, acg illustration
 
 ### ⚙️ Environment
-[![Ubuntu](https://img.shields.io/badge/Server-Ubuntu20.04-E95420?style=flat-square&logo=OpenSUSE&logoColor=FFFFFF&labelColor=E95420)](https://www.ubuntu.com/)
+[![Ubuntu](https://img.shields.io/badge/Server-Ubuntu20.04-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://www.ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows11-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
 [![macOS](https://img.shields.io/badge/macOS11-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/big-sur/)
 [![iOS](https://img.shields.io/badge/iOS13-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/ios14/)
