@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![iOS](https://img.shields.io/badge/iOS13-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/ios14/)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
 
-### 📱💻 设备
+### 💻 设备
 [![Xiaomi Pro 2017](https://img.shields.io/badge/笔记本电脑-Xiaomi%20Pro%202017-4F4F4F?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.mi.com/mibookpro/)
 [![iPhone SE 1](https://img.shields.io/badge/主用机-iPhone%20SE%201-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](#)
 [![MI 5S](https://img.shields.io/badge/次用机-MI%205S-FF6A00?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6A00)](https://mi.com/mi5s/)
