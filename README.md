@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 
 ### 📱💻 Devices
 [![Xiaomi Pro 2017](https://img.shields.io/badge/Laptop-Xiaomi%20Pro%202017-4F4F4F?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.mi.com/mibookpro/)
-[![Dell U2518D](https://img.shields.io/badge/Monitor-Dell%20U2518D-1885C3?style=flat-square&logo=dell&logoColor=FFFFFF&labelColor=1885C3)](https://item.jd.com/4396371.html/)
 [![iPhone SE 1](https://img.shields.io/badge/Phone-iPhone%20SE%201-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](#)
 [![MI 5S](https://img.shields.io/badge/Phone-MI%205S-FF6A00?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6A00)](https://mi.com/mi5s/)
 [![Redmi 3S](https://img.shields.io/badge/Phone-Redmi%203S-FF6A00?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6A00)](http://www.mi.com/hongmi3s/specs/)
+[![Dell U2518D](https://img.shields.io/badge/Monitor-Dell%20U2518D-1885C3?style=flat-square&logo=dell&logoColor=FFFFFF&labelColor=1885C3)](https://item.jd.com/4396371.html/)
+[![Ugee EX12](https://img.shields.io/badge/Graphics-tablet-Ugee%20EX%2012-CB0D2F?style=flat-square&logo=dell&logoColor=FFFFFF&labelColor=CB0D2F)](https://www.ugee.com.cn/goods/82.html)
 
 ### 📫 Contact me
 [![Telegram](https://img.shields.io/badge/%40yleencc-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/yleencc)
