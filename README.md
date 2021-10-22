@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yleencc&include_all_commits=true&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" />
 
 ### Hi there 👋 I'm yleen.cc（月琳）
-- 🔭 I’m currently studying in GuangDong,DongGuan
+[简体中文](https://github.com/yleencc/yleencc/blob/main/README_CN.md)
+- 🔭 I’m currently studying in university
 - 🌱 I’m learning Flutter
 - 🌐 Website: https://yleen.cc
 - 📫 Email: courin99@gmail.com or yleencc@qq.com
