@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - 🥰 Like IT, music, acg illustration
 
 ### ⚙️ Environment
-[![Ubuntu](https://img.shields.io/badge/Server:-Ubuntu-E95420?style=flat-square&logo=OpenSUSE&logoColor=FFFFFF&labelColor=E95420)](https://www.ubuntu.com/)
-[![Windows](https://img.shields.io/badge/Env-Windows11-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
-[![macOS](https://img.shields.io/badge/Env-macOS11-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/big-sur/)
-[![iOS](https://img.shields.io/badge/MobEnv-iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/ios14/)
-[![Android](https://img.shields.io/badge/MobEnv-Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
+[![Ubuntu](https://img.shields.io/badge/Server-Ubuntu20.04-E95420?style=flat-square&logo=OpenSUSE&logoColor=FFFFFF&labelColor=E95420)](https://www.ubuntu.com/)
+[![Windows](https://img.shields.io/badge/Windows11-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
+[![macOS](https://img.shields.io/badge/macOS11-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/big-sur/)
+[![iOS](https://img.shields.io/badge/iOS13-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/ios14/)
+[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
 
 ### 📱💻 Devices
 [![Xiaomi Pro 2017](https://img.shields.io/badge/Laptop-Xiaomi%20Pro%202017-4F4F4F?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.mi.com/mibookpro/)
