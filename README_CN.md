@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 [![Redmi 3S](https://img.shields.io/badge/备用机-Redmi%203S-FF6A00?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6A00)](http://www.mi.com/hongmi3s/specs/)
 [![Dell U2518D](https://img.shields.io/badge/显示器-Dell%20U2518D-1885C3?style=flat-square&logo=dell&logoColor=FFFFFF&labelColor=1885C3)](https://item.jd.com/4396371.html/)
 [![Ugee EX12](https://img.shields.io/badge/数位板-%20UGEE%20EX12-CB0D2F?style=flat-square&logoColor=FFFFFF&labelColor=CB0D2F&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAm1JREFUWEftlk2IjWEUx3//peyUrWSjkBphhWaIpLGwMEQkMpIUZUMNBqXkK1E+sxn5mFgQNsRCivJRarJCCmWjiI3FX+f2vLfrmvvet9e9ZmGezV3c55zze//n4zlihI9GOD7/B4DtWcCQpO/1irddAds3gaXAI0lz/ymA7T5gH7ATOAjMkPSiFqJtCtjuAJ4Dh4EdwFtgmqQfuQC2lwNTS3bHR0lnw9Z2BBwDHAEOAauAT5IeNgSwPQCsLhm8YiZJti8C64AJwHvgBPAF2AMMSurJYlRTYHs9cAEIwv6SEJ+B2UAAbEj+ngILEkzUxEpgs6TTFeAsUA31TEnPygDYngg8AJ4AV4EbwEJJ91Ja4v9IzYCkNfUAYdgZEpYJngJECpcA84BXQJ+kA7X+bDtUltTVUgDbu1PqQu77wG1J3fUf0xYA25HXy8B44HxSYL6kl20HSP1+F9iVgkUhb5V0crhUFlbA9hSgQ9KlRjVheywQwaPF4l4EvyNpRY5N8xqwfQzYVu3VBoVpO+SOdpsDbAQWASH9678F+AAcjwcEeAxsyiZcTdv2AmeAZUC0V0D3SjqX10WFUpBesJjjMVhOAdMlRVtVj+2A+wlsT71/S9LaZi1cFGAvsBiYlEbnlmGq+StwNEkfNdAt6V1LAAo4mQxkeb4C7Jc01MwuDavmRdjMke1xwPWoAUkBUPgUSkFhbyUujgLkKZAtEV31W0sJpYc1sd2ZWra6lNTuA9lgCeOyC0keazxUse7Fb4+kwd+e49QiceFaq764gZ9+STFnKueP5cN2EJZdSvPYvwFvJMXQqp7S20+rVBoF+AXMNUMwlxuBrAAAAABJRU5ErkJggg==)](https://www.ugee.com.cn/goods/82.html)
+
 (小米5S进水坏掉了_(:зゝ∠)_)
 
 ### 📫 联系方式
