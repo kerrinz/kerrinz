@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ### 📫 联系方式
 [![Telegram](https://img.shields.io/badge/%40yleencc-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/yleencc)
 [![QQ](https://img.shields.io/badge/QQ%20%401281540128-0088CC?style=flat-square&labelColor=0088CC)](https://qm.qq.com/cgi-bin/qm/qr?k=Fbr0XS3FxyKsOY5LWlAU1RwKhS-8kEil&noverify=0)
-[![Website](https://img.shields.io/badge/网站-月琳cc小宅-FFA8BE?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=FFA8BE)](https://yleen.cc)
+[![Website](https://img.shields.io/badge/网站-月琳cc-FFA8BE?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=FFA8BE)](https://yleen.cc)
 
 ### ⛄ 原神
 ![月琳](https://genshin-card.getloli.com/4-7/16605497.png)
