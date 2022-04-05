@@ -31,6 +31,7 @@ English / [简体中文](https://github.com/yleencc/yleencc/blob/main/README_CN.
 
 ### 💻 Devices
 [![Xiaomi Pro 2017](https://img.shields.io/badge/Laptop-Xiaomi%20Pro%202017-4F4F4F?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.mi.com/mibookpro/)
+[![iPhone Xr](https://img.shields.io/badge/iPhone%20XR%20-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](#)
 [![iPhone SE 1](https://img.shields.io/badge/Phone-iPhone%20SE%201-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](#)
 [![MI 5S](https://img.shields.io/badge/Phone-MI%205S-FF6A00?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6A00)](https://mi.com/mi5s/)
 [![Redmi 3S](https://img.shields.io/badge/Phone-Redmi%203S-FF6A00?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6A00)](http://www.mi.com/hongmi3s/specs/)
