@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yleencc&include_all_commits=true&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" />
 
-### Hi~ 👋 我是月琳（yleen.cc）
+### Hi~ 👋 我是月琳cc
 [English](https://github.com/yleencc/yleencc) / 简体中文
 - 🔭 还在上学，大三
 - 🌱 当前在学：Flutter
 - 🌐 网站: https://yleen.cc
 - 📫 邮箱: courin99@gmail.com 或 yleencc@qq.com
-- 🥰 喜欢IT，音乐，ACG 插画
+- 🥰 喜欢数码，音乐，ACG
 
 ### ⚙️ 在用的系统
 [![Ubuntu](https://img.shields.io/badge/服务器-Ubuntu20.04-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://www.ubuntu.com/)
