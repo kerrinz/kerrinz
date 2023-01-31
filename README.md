@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yleencc&include_all_commits=true&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" />
 
-### Hi there 👋 I'm yleencc（月琳cc）
+### Hi there 👋 
 English / [简体中文](https://github.com/yleencc/yleencc/blob/main/README_CN.md)
 - 🔭 I’m currently studying in university
-- 🌱 I’m learning Flutter
+- 🌱 I’m learning Vue、Flutter
 - 🌐 Website: https://yleen.cc
-- 📫 Email: courin99@gmail.com or yleencc@qq.com
+- 📫 Email: courin99@gmail.com
 - 🥰 Like IT, music, acg illustration
 
 ### ⚙️ Environment
@@ -42,6 +42,3 @@ English / [简体中文](https://github.com/yleencc/yleencc/blob/main/README_CN.
 [![Telegram](https://img.shields.io/badge/%40yleencc-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/yleencc)
 [![QQ](https://img.shields.io/badge/QQ%20%401281540128-0088CC?style=flat-square&labelColor=0088CC)](https://qm.qq.com/cgi-bin/qm/qr?k=Fbr0XS3FxyKsOY5LWlAU1RwKhS-8kEil&noverify=0)
 [![Website](https://img.shields.io/badge/Website-月琳cc-FFA8BE?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=FFA8BE)](https://yleen.cc)
-
-### ⛄ Genshin Impact
-![月琳](https://genshin-card.getloli.com/4-7/16605497.png)
