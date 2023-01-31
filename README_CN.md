@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yleencc&include_all_commits=true&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" />
 
-### Hi~ 👋 我是月琳cc
+### Hi~ 👋，这里是大学生一枚
 [English](https://github.com/yleencc/yleencc) / 简体中文
 - 🔭 还在上学，大四
 - 🌱 熟悉的技术栈：Vue、Flutter
