@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi~ 👋
 [English](https://github.com/kerrinz/kerrinz) / 简体中文
-- 🌱 熟悉的技术栈：Flutter、React
+- 🌱 正在学习: Flutter, React
 - 🌐 网站: https://kerrinz.com
 - 📫 邮箱: courin99@gmail.com
 - 🥰 喜欢数码、ACG、音乐
