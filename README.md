@@ -23,13 +23,14 @@ English / [简体中文](https://github.com/kerrinz/kerrinz/blob/main/README_CN.
 - 🥰 Like IT, acg illustration, music
 
 ### ⚙️ Environment
-[![Ubuntu](https://img.shields.io/badge/Server-Ubuntu20.04-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://www.ubuntu.com/)
+[![macOS](https://img.shields.io/badge/macOS15-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/macos-sequoia/)
 [![Windows](https://img.shields.io/badge/Windows11-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
-[![macOS](https://img.shields.io/badge/macOS14-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/sonoma/)
-[![iOS](https://img.shields.io/badge/iOS16-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/ios16/)
+[![Ubuntu](https://img.shields.io/badge/Server-Ubuntu20.04-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://www.ubuntu.com/)
+[![iOS](https://img.shields.io/badge/iOS18-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/ios18/)
 [![Android](https://img.shields.io/badge/Android11-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
 
 ### 💻 Devices
+![Mac Mini 2024](https://img.shields.io/badge/Mac%20Mini%202024-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)
 ![Computer](https://img.shields.io/badge/12490F%20%2B%20AMD%206750GRE%20Computer-4F4F4F?style=flat-square&logo=intel&logoColor=FFFFFF&labelColor=4F4F4F) 
 [![iPhone Xr](https://img.shields.io/badge/iPhone%20XR%20-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](#)
 [![Dell U2518D](https://img.shields.io/badge/Monitor-Dell%20U2518D-1885C3?style=flat-square&logo=dell&logoColor=FFFFFF&labelColor=1885C3)](https://item.jd.com/4396371.html/)
