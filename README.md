@@ -23,15 +23,15 @@ English / [简体中文](https://github.com/kerrinz/kerrinz/blob/main/README_CN.
 - 🥰 Like IT, acg illustration, music
 
 ### ⚙️ Environment
-[![macOS](https://img.shields.io/badge/macOS15-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/macos-sequoia/)
+[![macOS](https://img.shields.io/badge/macOS26-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/)
 [![Windows](https://img.shields.io/badge/Windows11-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
-[![Ubuntu](https://img.shields.io/badge/Server-Ubuntu20.04-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://www.ubuntu.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu20.04-E95420?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://www.ubuntu.com/)
 [![iOS](https://img.shields.io/badge/iOS18-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/ios18/)
 [![Android](https://img.shields.io/badge/Android16-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-16/)
 
 ### 💻 Devices
 ![Mac Mini 2024](https://img.shields.io/badge/Mac%20Mini%202024-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)
-![Computer](https://img.shields.io/badge/12600KF%20%2B%20AMD%209070XT%20Computer-4F4F4F?style=flat-square&logo=intel&logoColor=FFFFFF&labelColor=4F4F4F) 
+![PC](https://img.shields.io/badge/12600KF%20%2B%20AMD%209070XT%20Computer-4F4F4F?style=flat-square&logo=intel&logoColor=FFFFFF&labelColor=4F4F4F) 
 [![REDMI K80](https://img.shields.io/badge/REDMI%20K80-E50235?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=E50235)](https://www.mi.com/mibookpro/)
 [![iPhone Xr](https://img.shields.io/badge/iPhone%20XR%20-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](#)
 [![Xiaomi Pro 2017](https://img.shields.io/badge/Laptop-Xiaomi%20Pro%202017-4F4F4F?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.mi.com/mibookpro/)
