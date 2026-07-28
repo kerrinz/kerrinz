@@ -31,7 +31,7 @@ English / [简体中文](https://github.com/kerrinz/kerrinz/blob/main/README_CN.
 
 ### 💻 Devices
 ![Mac Mini 2024](https://img.shields.io/badge/Mac%20Mini%202024-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)
-![PC](https://img.shields.io/badge/12600KF%20%2B%20AMD%209070XT%20Computer-4F4F4F?style=flat-square&logo=intel&logoColor=FFFFFF&labelColor=4F4F4F) 
+![PC](https://img.shields.io/badge/12600KF%20%2B%20AMD%209070XT%20PC-4F4F4F?style=flat-square&logo=intel&logoColor=FFFFFF&labelColor=4F4F4F) 
 [![REDMI K80](https://img.shields.io/badge/REDMI%20K80-E50235?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=E50235)](https://www.mi.com/mibookpro/)
 [![iPhone Xr](https://img.shields.io/badge/iPhone%20XR%20-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](#)
 [![Xiaomi Pro 2017](https://img.shields.io/badge/Laptop-Xiaomi%20Pro%202017-4F4F4F?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.mi.com/mibookpro/)
